@@ -10,9 +10,3 @@ envd contributors
 <a href="https://github.com/tensorchord/envd/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=tensorchord/envd&columns=20" />
 </a>
-
-envd-docs contributors
-
-<a href="https://github.com/tensorchord/envd-docs/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tensorchord/envd-docs&columns=20" />
-</a>
