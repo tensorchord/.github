@@ -7,21 +7,8 @@
 <a href="https://www.youtube.com/channel/UCCA7u-PLO1fP8j1X7Pgut1Q"><img src="https://img.shields.io/youtube/channel/subscribers/UCCA7u-PLO1fP8j1X7Pgut1Q?label=%40TensorChord&style=social" alt="youtube"></a>
 <!-- <a href="https://tensorchord.medium.com/"><img src="https://img.shields.io/badge/Medium-@TensorChord-12100E?logo=medium&logoColor=white&style=plastic" alt="medium"></a> -->
 
-## Modelz 
-
-[![](https://img.shields.io/badge/modelz.ai-455946.svg?style=socail&logo=googlechrome&logoColor=white)](https://modelz.ai)
-
-Modelz is a developer-first platform for prototyping and deploying machine learning models.
-
-## envd
-
-[![](https://img.shields.io/badge/envd.tensorchord.ai-455946.svg?style=socail&logo=googlechrome&logoColor=white)](https://envd.tensorchord.ai)
-[![](https://shields.io/github/stars/tensorchord/envd?style=social)](https://github.com/tensorchord/envd)
-
-envd (ɪnˈvdɪ) is a command-line tool that helps you create the container-based development environment for AI/ML.
-
-## pgvecto.rs
-
-[![](https://img.shields.io/badge/github.com/tensorchord/pgvecto.rs-455946.svg?style=socail&logo=googlechrome&logoColor=white)](https://github.com/tensorchord/pgvecto.rs) [![](https://shields.io/github/stars/tensorchord/pgvecto.rs?style=social)](https://github.com/tensorchord/pgvecto.rs)
-
-pgvecto.rs is a Postgres extension that provides vector similarity search functions. It is written in Rust and based on pgrx.
+- [modelz](https://modelz.ai) [![](https://img.shields.io/badge/modelz.ai-455946.svg?style=socail&logo=googlechrome&logoColor=white)](https://modelz.ai) - Modelz is a developer-first platform for prototyping and deploying machine learning models.
+- envd [![](https://shields.io/github/stars/tensorchord/envd?style=social)](https://github.com/tensorchord/envd) - envd (ɪnˈvdɪ) is a command-line tool that helps you create the container-based development environment for AI/ML.
+- mosec [![](https://shields.io/github/stars/mosecorg/mosec?style=social)](https://github.com/mosecorg/mosec) - Mosec is a high-performance and flexible model serving framework for building ML model-enabled backend and microservices.
+- pgvecto.rs [![](https://shields.io/github/stars/tensorchord/pgvecto.rs?style=social)](https://github.com/tensorchord/pgvecto.rs) - pgvecto.rs is a Postgres extension that provides vector similarity search functions. It is written in Rust and based on pgrx.
+- Awesome-LLMOps [![](https://shields.io/github/stars/tensorchord/awesome-llmops?style=social)](https://github.com/tensorchord/awesome-llmops) - An awesome & curated list of best LLMOps tools for developers
