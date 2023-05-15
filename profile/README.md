@@ -1,12 +1,27 @@
-[![](https://shields.io/github/stars/tensorchord?style=social)](https://github.com/tensorchord/)
+# TensorChord
+
 <a href="https://discord.gg/KqswhpVgdU"><img alt="discord invitation link" src="https://dcbadge.vercel.app/api/server/KqswhpVgdU?style=flat"></a>
+[![](https://shields.io/github/stars/tensorchord?style=social)](https://github.com/tensorchord/)
 <a href="https://twitter.com/TensorChord"><img src="https://img.shields.io/twitter/follow/TensorChord?style=social" alt="trackgit-views" /></a>
 <a href="https://www.linkedin.com/company/tensorchord"><img src="https://img.shields.io/badge/TensorChord-51-white?logo=linkedin&style=social" alt="linkedin community"></a>
-<a href="https://tensorchord.medium.com/"><img src="https://img.shields.io/badge/Medium-@TensorChord-12100E?logo=medium&logoColor=white&style=plastic" alt="medium"></a>
+<!-- <a href="https://tensorchord.medium.com/"><img src="https://img.shields.io/badge/Medium-@TensorChord-12100E?logo=medium&logoColor=white&style=plastic" alt="medium"></a> -->
 <a href="https://www.youtube.com/channel/UCCA7u-PLO1fP8j1X7Pgut1Q"><img src="https://img.shields.io/youtube/channel/subscribers/UCCA7u-PLO1fP8j1X7Pgut1Q?label=%40TensorChord&style=social" alt="youtube"></a>
 
-envd contributors
+## Modelz 
 
-<a href="https://github.com/tensorchord/envd/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tensorchord/envd&columns=20" />
-</a>
+[![](https://img.shields.io/badge/modelz.ai-455946.svg?style=socail&logo=googlechrome&logoColor=white)](https://modelz.ai)
+
+Modelz is a developer-first platform for prototyping and deploying machine learning models.
+
+## envd
+
+[![](https://img.shields.io/badge/envd.tensorchord.ai-455946.svg?style=socail&logo=googlechrome&logoColor=white)](https://envd.tensorchord.ai)
+[![](https://shields.io/github/stars/tensorchord/envd?style=social)](https://github.com/tensorchord/envd)
+
+envd (ɪnˈvdɪ) is a command-line tool that helps you create the container-based development environment for AI/ML.
+
+## pgvecto.rs
+
+[![](https://img.shields.io/badge/github.com/tensorchord/pgvecto.rs-455946.svg?style=socail&logo=googlechrome&logoColor=white)](https://github.com/tensorchord/pgvecto.rs) [![](https://shields.io/github/stars/tensorchord/pgvecto.rs?style=social)](https://github.com/tensorchord/pgvecto.rs)
+
+pgvecto.rs is a Postgres extension that provides vector similarity search functions. It is written in Rust and based on pgrx.
