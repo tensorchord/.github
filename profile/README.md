@@ -8,6 +8,7 @@
 <!-- <a href="https://tensorchord.medium.com/"><img src="https://img.shields.io/badge/Medium-@TensorChord-12100E?logo=medium&logoColor=white&style=plastic" alt="medium"></a> -->
 
 - [modelz](https://modelz.ai) [![](https://img.shields.io/badge/modelz.ai-455946.svg?style=socail&logo=googlechrome&logoColor=white)](https://modelz.ai) - Modelz is a developer-first platform for prototyping and deploying machine learning models.
+- [OpenModelZ](https://github.com/tensorchord/openmodelz) [![](https://shields.io/github/stars/tensorchord/openmodelz?style=social)](https://github.com/tensorchord/openmodelz) - One-click machine learning deployment (LLM, text-to-image and so on) at scale on any cluster (GCP, AWS, Lambda labs, your home lab, or even a single machine).
 - [envd](https://github.com/tensorchord/envd) [![](https://shields.io/github/stars/tensorchord/envd?style=social)](https://github.com/tensorchord/envd) - envd (ɪnˈvdɪ) is a command-line tool that helps you create the container-based development environment for AI/ML.
 - [mosec](https://github.com/mosecorg/mosec) [![](https://shields.io/github/stars/mosecorg/mosec?style=social)](https://github.com/mosecorg/mosec) - Mosec is a high-performance and flexible model serving framework for building ML model-enabled backend and microservices.
 - [Modelz-LLM](https://github.com/tensorchord/modelz-llm) ![](https://img.shields.io/github/stars/tensorchord/modelz-llm.svg?style=social) - OpenAI compatible API for LLMs and embeddings (LLaMA, Vicuna, ChatGLM and many others)
